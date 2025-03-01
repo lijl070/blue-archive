@@ -1,7 +1,5 @@
 # Blue Archive Monorepo
 
-[简体中文](README.md) | English
-
 This project organizes a monorepo using `rush.js` to standardize code conventions and dependencies across various projects. It optimizes the inclusion of common packages in project setups.
 
 ## Environment Information
